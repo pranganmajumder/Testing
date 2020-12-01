@@ -1,1 +1,18 @@
-Just check for Educational Purpose
+1) generated ssh key 
+2) checked basic git command if my ssh key working or not
+3) clone a repo from github then
+          a) edit file / create file
+          b) stage file ( git add file_name or git add .)
+          c) commit ( git commit -m )
+          d) finally push ( git push) 
+
+4) create a Repo in Local storare then push in 
+          a) initialize git (git init)
+          b) create/modify file (touch file_name)
+          c) open with vsCode( code .)
+          d) stage , commit but not push
+          e) to push  follow next instruction
+                    => create a repo at first in remote by graphically or command line
+                   => then ( git remote add origin repo_link)
+                  => finally Link with remote( git push --set-upstream origin master)
+                    
